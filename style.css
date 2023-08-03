@@ -1,0 +1,82 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: orange;
+    display: flex;
+}
+.item1{
+    width: 35%;
+    height: 100%;
+    background-color:
+rgb(9, 9, 136);
+    
+    
+}
+.item2{
+    width: 65%; 
+    height: 100%; 
+    background-color: 
+    rgb(5, 5, 138);
+    display: flex;
+    
+}
+.pic3{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.pic1{position: relative;
+width: 80%;
+height: 40%;
+    margin: 30px;
+}
+.pic2{
+    position: relative;
+    width: 80%;
+    height: 40%;
+        margin: 30px;
+}
+.p3{
+    position: absolute;
+    top: 76%;
+    left: 67%;
+ color: white;
+ font-size: 230%;
+ font-weight: 200;
+ width: 31%;
+ height: 8%;
+ 
+   background-color: blue;
+ 
+}
+.p4{
+    position: absolute;
+    top: 84%;
+    left: 70%;
+ color: white;
+ font-size: 220%;
+ font-weight: 150;
+
+ width: 28%;
+ height: 8%;
+   background-color: blue;
+
+}
+.p1{position: absolute;
+    bottom: 290px;
+    left: 37px;
+    width: 27.8%;
+    color: white;
+    background-color: rgb(31, 31, 156);
+    font-size: larger;
+    text-align: center;
+}
+.p2{position: absolute;
+    bottom: -20px;
+    left: 37px;
+    width: 27.8%;
+    color: white;
+    background-color: rgb(31, 31, 156);
+    font-size: larger;
+    text-align: center;
+}
